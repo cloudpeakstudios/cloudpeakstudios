@@ -1,10 +1,11 @@
 {
-  "name": "gatsby-starter-forty",
-  "description": "Gatsby Starter - Forty by HTML5 UP",
+  "name": "landing-page",
+  "description": "Landing page for Cloudpeak Studios",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Manil Chowdhury",
   "dependencies": {
     "gatsby": "^1.9.118",
+    "gatsby-cli": "^1.1.39",
     "gatsby-image": "^1.0.27",
     "gatsby-link": "^1.6.28",
     "gatsby-plugin-google-analytics": "^1.0.12",
@@ -18,7 +19,7 @@
     "gatsby-transformer-sharp": "^1.6.14",
     "lodash": "^4.17.4"
   },
-  "homepage": "https://github.com/ChangoMan/gatsby-starter-forty",
+  "homepage": "https://github.com/cloudpeakstudios",
   "keywords": [
     "gatsby"
   ],
@@ -26,7 +27,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChangoMan/gatsby-starter-forty.git"
+    "url": "https://github.com/cloudpeakstudios/cloudpeakstudios"
   },
   "scripts": {
     "dev": "gatsby develop",
