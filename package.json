@@ -1,6 +1,6 @@
 {
-  "name": "landing-page",
-  "description": "Landing page for Cloudpeak Studios",
+  "name": "cloudpeakstudios",
+  "description": "A landing page for Cloudpeak Studios",
   "version": "1.0.0",
   "author": "Manil Chowdhury",
   "dependencies": {
