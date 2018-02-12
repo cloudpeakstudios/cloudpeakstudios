@@ -28,43 +28,43 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Main service 1</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>CMS</h3>
+                                <p>Content Management Systems</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Main service 2</h3>
-                                <p>feugiat amet tempus</p>
+                                <h3>Event Management</h3>
+                                <p>Ticketing and guest management, made simple</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>A cool thing we can do</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>Prototyping Web Apps</h3>
+                                <p>Breathe life into your idea</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Sure this too</h3>
-                                <p>Nisl sed aliquam</p>
+                                <h3>Data Visualization</h3>
+                                <p>Data for eyeballs</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>We also do this convenient thing</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>E-commerce</h3>
+                                <p>Trade stuff for stuff</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>And lastly this</h3>
-                                <p>Feugiat amet tempus</p>
+                                <h3>Web Pages</h3>
+                                <p>Put stuff on the internet</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -72,9 +72,9 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Power pitch</h2>
+                                <h2>Start the conversation</h2>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                            <p>Bring us your ideas. We can assess your needs, and propose solutions that fit. Consultations are always free.</p>
                             <ul className="actions">
                                 <li><Link to="/landing" className="button next">Get Started</Link></li>
                             </ul>

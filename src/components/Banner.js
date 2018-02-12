@@ -9,7 +9,7 @@ const Banner = (props) => (
             <div className="content">
                 <p>We're a design and development consultancy<br />
                 serving clients in the US and Canadian Pacific Northwest<br />
-                based out of beautiful Vancouver, British Columbia.</p>
+                and based out of beautiful Vancouver, British Columbia.</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
