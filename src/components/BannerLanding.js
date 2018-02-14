@@ -7,8 +7,8 @@ const BannerLanding = (props) => (
                 <h1>Solutions</h1>
             </header>
             <div className="content">
-                <p>You bring ideas.<br />
-                We have solutions.</p>
+                <p>You bring us ideas.<br />
+                We bring you results.</p>
             </div>
         </div>
     </section>
