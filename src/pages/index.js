@@ -31,42 +31,42 @@ class HomeIndex extends React.Component {
                                 <h3>CMS</h3>
                                 <p>Content Management Systems</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/solutions" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>Event Management</h3>
-                                <p>Ticketing and guest management</p>
+                                <p>Ticketing + guest management</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/solutions" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>Prototyping Web Apps</h3>
                                 <p>Breathe life into your idea</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/solutions" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>Data Visualization</h3>
                                 <p>Data for eyeballs</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/solutions" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
                                 <h3>E-commerce</h3>
                                 <p>Trade stuff for stuff</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/solutions" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
                                 <h3>Web Pages</h3>
                                 <p>Put stuff on the internet</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/solutions" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">
@@ -76,7 +76,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <p>Bring us your ideas. We can assess your needs, and propose solutions that fit. Consultations are always free.</p>
                             <ul className="actions">
-                                <li><Link to="/landing" className="button next">Get Started</Link></li>
+                                <li><Link to="#contact" className="button next">Get Started</Link></li>
                             </ul>
                         </div>
                     </section>

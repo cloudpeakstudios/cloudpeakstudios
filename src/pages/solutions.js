@@ -22,7 +22,7 @@ const Landing = (props) => (
                     <header className="major">
                         <h2>CMS</h2>
                     </header>
-                    <p>Content Management Systems...</p>
+                    <p>Typical <i>Content Management Systems</i> have room for improvement.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
@@ -51,7 +51,7 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Prototyping Web Apps</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                            <p>Pitching to investors may need more than a brilliant idea on a napkin.</p>
                             <ul className="actions">
                                 <li><Link to="/generic" className="button">Learn more</Link></li>
                             </ul>
@@ -67,7 +67,7 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Data Visualization</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                            <p>Visualizing data can make plain numbers have more impact.</p>
                             <ul className="actions">
                                 <li><Link to="/generic" className="button">Learn more</Link></li>
                             </ul>
@@ -83,7 +83,7 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>E-commerce</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                            <p>Selling your creative and retail product online is plenty of work. We make the <i>selling</i> easier.</p>
                             <ul className="actions">
                                 <li><Link to="/generic" className="button">Learn more</Link></li>
                             </ul>
@@ -99,7 +99,7 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Web Pages</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                            <p>Do you need a pure blog, no bells and whistles? We'll deliver something clean in simple using Ghost, an open-source...</p>
                             <ul className="actions">
                                 <li><Link to="/generic" className="button">Learn more</Link></li>
                             </ul>
