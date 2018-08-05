@@ -7,7 +7,7 @@ const Contact = (props) => (
                 <div className="contact-method">
                     <span className="icon alt fa-envelope"></span>
                     <h3>Email</h3>
-                    <a href="#">getstarted@cloudpeak.co</a>
+                    <a href="mailto:getstarted@cloudpeak.co">getstarted@cloudpeak.co</a>
                 </div>
                 <div className="contact-method">
                     <span className="icon alt fa-phone"></span>
